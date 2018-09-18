@@ -1,0 +1,1781 @@
+[
+    {
+        "address": "1600 E SONORAN DESERT DR",
+        "lat": "33.76386662",
+        "lng": "-112.0496356",
+        "name": "Apache Wash Trailhead",
+        "reviews": [
+            "\"Beautiful desert scenery, lots of parking and clean restrooms.\n\"",
+            "\"Bring lots of water with you for a good experience.\n\"",
+            "\"3.5 star review, 4 stars because this place is well maintained.\n\""
+        ],
+        "stars": "Rating: 4.5 - 26 reviews",
+        "url": "https://www.phoenix.gov/parks/trails/locations/sonoran-preserve"
+    },
+    {
+        "address": "2605 N 15TH AVE",
+        "lat": "33.47665418",
+        "lng": "-112.0900262",
+        "name": "Encanto Park Clubhouse",
+        "reviews": [
+            "\"Very good place to take the family and have a good night out BBQ fun family time\n\"",
+            "\"Cool place well located reasonably priced not the best area\n\"",
+            "\"I had fun watching 3 year olds playing soccer, lol, funny!\n\""
+        ],
+        "stars": "Rating: 4 - 51 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/wedding-locations-in-phoenix-parks"
+    },
+    {
+        "address": "609 E ADAMS ST",
+        "lat": "33.44918812",
+        "lng": "-112.0658413",
+        "name": "Thomas House",
+        "reviews": [
+            "\"Love this place - relaxing, comfortable and great service.\n\"",
+            "\"Perfect place to wait for my table at the Pizzeria Bianco next door.\n\"",
+            "\"I got the Rosa pizza and an Italian lemonade.\n\""
+        ],
+        "stars": "Rating: 4 - 62 reviews - Price range: $$",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks/heritage/historic-buildings"
+    },
+    {
+        "address": "622 E ADAMS ST",
+        "lat": "33.44958686",
+        "lng": "-112.0656617",
+        "name": "Teeter House",
+        "reviews": [
+            "\"The food, service, beer, and ambience were excellent.\n\"",
+            "\"I love the place Dessert dark chocolate tofu moose with roasted coconut.\n\"",
+            "\"Lol they close at 10 but don’t wana serve a customer entering at 9.20 really\n\""
+        ],
+        "stars": "Rating: 4 - 454 reviews - Price range: $31-60",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks/heritage/historic-buildings"
+    },
+    {
+        "address": "628 E ADAMS ST",
+        "lat": "33.44958715",
+        "lng": "-112.0654158",
+        "name": "Silva House",
+        "reviews": [],
+        "stars": "Rating: 3.5 - 359 reviews - Price range: $11-30",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks/heritage/historic-buildings"
+    },
+    {
+        "address": "618 E ADAMS ST",
+        "lat": "33.44983417",
+        "lng": "-112.0656949",
+        "name": "Teeter Carriage House",
+        "reviews": [],
+        "stars": "Oct 11, 2014 - Uploaded by Buy Wholesale Homes Now",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks/heritage/historic-buildings"
+    },
+    {
+        "address": "115 N 6TH ST",
+        "lat": "33.44980631",
+        "lng": "-112.0660063",
+        "name": "Heritage and Science Park",
+        "reviews": [
+            "\"I go here for RCB (Royal Coffee Bar) this place has the best coffee.\n\"",
+            "\"The museums are great and there is a great variety of food options in the area.\n\"",
+            "\"Learn Arizona history in a beautifully restored Victorian home.\n\""
+        ],
+        "stars": "Rating: 4 - 34 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks/heritage"
+    },
+    {
+        "address": "127 N 6TH ST",
+        "lat": "33.44998496",
+        "lng": "-112.0660066",
+        "name": "Burgess Carriage House",
+        "reviews": [],
+        "stars": "2012 - Travel",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks/heritage/historic-buildings"
+    },
+    {
+        "address": "5999 E VAN BUREN ST",
+        "lat": "33.44881829",
+        "lng": "-111.9555175",
+        "name": "Phoenix Municipal Stadium",
+        "reviews": [
+            "\"Great seats, good legroom, fun watching our ASU Sun Devils play baseball! ⚾\n\"",
+            "\"Great location and Sun Devil's baseball\n\"",
+            "\"Great place to watch a game.\n\""
+        ],
+        "stars": "Rating: 7/10 - 55 reviews",
+        "url": "https://www.phoenix.gov/parkssite/Pages/sportsphxmuni.aspx"
+    },
+    {
+        "address": "5041 E VAN BUREN ST",
+        "lat": "33.44816628",
+        "lng": "-111.9717131",
+        "name": "Tovrea Castle",
+        "reviews": [
+            "\"There is a small gift shop with restroom facilities.\n\"",
+            "\"This is a spectacular place for a first date or a special occasion.\n\"",
+            "\"They only show you two rooms and not the upstairs :(\n\""
+        ],
+        "stars": "Rating: 8.5/10 - 16 votes",
+        "url": "https://www.phoenix.gov/parks/arts-culture-history/tovrea-castle"
+    },
+    {
+        "address": "1717 N 12TH ST",
+        "lat": "33.46821639",
+        "lng": "-112.0553081",
+        "name": "Coronado Park",
+        "reviews": [
+            "\"A gem in the coronado area, Dazu's, some of the best breakfast and coffee made\n\"",
+            "\"A perfect place to bring your family\n\"",
+            "\"Homeless sleeping everywhere including the bathroom\n\""
+        ],
+        "stars": "Rating: 7.9/10 - 27 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "1202 W ENCANTO BLVD",
+        "lat": "33.47467821",
+        "lng": "-112.0879725",
+        "name": "Enchanted Island",
+        "reviews": [
+            "\"Great experience, staff is friendly, and rides are fun for little kiddos.\n\"",
+            "\"This place is run down, out of service and got dead fish in the water.\n\"",
+            "\"Good food, clean, friendly people and fair prices\n\""
+        ],
+        "stars": "Rating: 3.5 - 70 reviews",
+        "url": "http://www.enchantedisland.com/"
+    },
+    {
+        "address": "1 W WASHINGTON ST",
+        "lat": "33.44768234",
+        "lng": "-112.0744579",
+        "name": "Patriots Square Park",
+        "reviews": [],
+        "stars": "Rating: 4 - 4 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/p-parks"
+    },
+    {
+        "address": "1106 N CENTRAL AVE",
+        "lat": "33.46088538",
+        "lng": "-112.0745999",
+        "name": "Irish Cultural Center",
+        "reviews": [
+            "\"The guided tour was great and the staff very knowledgeable.\n\"",
+            "\"The atmosphere was very peaceful and relaxing.\n\"",
+            "\"Great music, food, crafts and displays.\n\""
+        ],
+        "stars": "Rating: 4.5 - 22 reviews",
+        "url": "http://www.azirish.org/"
+    },
+    {
+        "address": "602 E ADAMS ST",
+        "lat": "33.44958648",
+        "lng": "-112.0659731",
+        "name": "Stevens House",
+        "reviews": [
+            "\"Food was great home cooking, I was full when I left.\n\""
+        ],
+        "stars": "Rating: 2.5 - 398 reviews - Price range: $11-30",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks/heritage/historic-buildings"
+    },
+    {
+        "address": "623 E ADAMS ST",
+        "lat": "33.44918836",
+        "lng": "-112.0656446",
+        "name": "Machine Shop",
+        "reviews": [],
+        "stars": "Rating: 4 - 2,242 reviews - Price range: $11-30",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks/heritage/historic-buildings"
+    },
+    {
+        "address": "10645 W CAMELBACK RD",
+        "lat": "33.50683597",
+        "lng": "-112.2879303",
+        "name": "Dust Devil Park",
+        "reviews": [
+            "\"Generally clean rest rooms, and drinking fountains with COLD WATER, year-round.\n\"",
+            "\"Small neighborhood park with decent skate area.\n\"",
+            "\"This park offers variety for children and adults\n\""
+        ],
+        "stars": "Rating: 4 - 6 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/d-parks"
+    },
+    {
+        "address": "1002 W VAN BUREN ST",
+        "lat": "33.45276026",
+        "lng": "-112.0877163",
+        "name": "University Park",
+        "reviews": [
+            "\"Nice place to take a break\n\"",
+            "\"The Phoenix park people are GREAT !!!!!\n\"",
+            "\"Very nice park to play Basketball, also nice playground for the little one's\n\""
+        ],
+        "stars": "$2,575.00",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/u-parks"
+    },
+    {
+        "address": "1809 N 15TH AVE",
+        "lat": "33.46833612",
+        "lng": "-112.0910852",
+        "name": "Valley Garden Center",
+        "reviews": [
+            "\"Very easy going friendly staff I enjoyed my visit here.\n\"",
+            "\"Nice little place for a small intimate Gathering.\n\"",
+            "\"I seen this place 26 yrs ago and fell in live with it.\n\""
+        ],
+        "stars": "Rating: 9/10 - 3 reviews",
+        "url": "http://www.valleygardencenter.org/"
+    },
+    {
+        "address": "6655 N 23RD AVE",
+        "lat": "33.53321965",
+        "lng": "-112.1058913",
+        "name": "Washington Park",
+        "reviews": [
+            "\"Have water, friendly dogs, friendly people, good experience.\n\"",
+            "\"Good place for morning coffee.\n\"",
+            "\"They have homeless people there sleeping.\n\""
+        ],
+        "stars": "Rating: 6/10 - 3 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/w-parks"
+    },
+    {
+        "address": "4304 E CAMPBELL AVE",
+        "lat": "33.50279708",
+        "lng": "-111.9902994",
+        "name": "Kachina Park",
+        "reviews": [
+            "\"Small, neighborhood park, good little playground for the younger kids.\n\"",
+            "\"Great place to go and relax with the family\n\"",
+            "\"It is a quick walk to LGO if mom or dad needs a coffee or snack.\n\""
+        ],
+        "stars": "Rating: 4 - 10 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/k-parks"
+    },
+    {
+        "address": "5700 N ECHO CANYON PKWY",
+        "lat": "33.52145069",
+        "lng": "-111.9737283",
+        "name": "Echo Canyon Recreation Area",
+        "reviews": [
+            "\"The hiking and rock climbing are extreme bring water, very good workout\n\"",
+            "\"Though a bit crowded on a Saturday morning, this place \"rocks!\"\n\"",
+            "\"Too many people, not enough parking\n\""
+        ],
+        "stars": "Rating: 4.5 - 237 reviews",
+        "url": "https://www.phoenix.gov/parks/trails/locations/camelback-mountain"
+    },
+    {
+        "address": "9833 N 25TH AVE",
+        "lat": "33.57608491",
+        "lng": "-112.1115336",
+        "name": "Rose Mofford Sports Complex",
+        "reviews": [
+            "\"Enjoyed watching my niece pitch for Phoenix Heat Softball!!!! :)\n\"",
+            "\"Lots of lighting and good parking for night use.\n\"",
+            "\"Water fountains are hot water so bring ice.\n\""
+        ],
+        "stars": "Rating: 8/10 - 6 reviews",
+        "url": "https://www.phoenix.gov/parks/sports/complexes/rose-mofford"
+    },
+    {
+        "address": "1104 E GROVERS AVE",
+        "lat": "33.64812127",
+        "lng": "-112.0587899",
+        "name": "Mountain View Tennis Center",
+        "reviews": [],
+        "stars": "Rating: 2 - 5 reviews",
+        "url": "https://www.phoenix.gov/parks/sports/tennis"
+    },
+    {
+        "address": "1946 W MORNINGSIDE DR",
+        "lat": "33.64882017",
+        "lng": "-112.1017733",
+        "name": "Telephone Pioneers of America Park",
+        "reviews": [
+            "\"I love to sit in the big seat swings with my 2 babies and relax.\n\"",
+            "\"This park is completely designed for wheelchair bound people.\n\"",
+            "\"Fun park, nice playground, restrooms were clean, special needs swings\n\""
+        ],
+        "stars": "Rating: 3 - 3 reviews",
+        "url": "https://www.phoenix.gov/parks/adaptive-recreation"
+    },
+    {
+        "address": "3801 W CACTUS RD",
+        "lat": "33.59455085",
+        "lng": "-112.1407703",
+        "name": "Cactus Park",
+        "reviews": [
+            "\"Grass, pool, good parking, play equipment in nice area\n\"",
+            "\"The people hanging around don't seem safe, the playground is small and unshaded.\n\"",
+            "\"Great place to take the kids and the dogs.\n\""
+        ],
+        "stars": "Rating: 8/10 - 2 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "16225 N 47TH AVE",
+        "lat": "33.63319457",
+        "lng": "-112.1583985",
+        "name": "Sunburst Paradise Park",
+        "reviews": [
+            "\"Small, but fun place for children.\n\"",
+            "\"Too many homeless people.\n\"",
+            "\"No parking spots only parking along street.\n\""
+        ],
+        "stars": "Rating: 3.9 - 9 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/s-parks"
+    },
+    {
+        "address": "6002 E PARADISE LN",
+        "lat": "33.63360507",
+        "lng": "-111.9496534",
+        "name": "Jackrabbit Basin Park",
+        "reviews": [
+            "\"If you live near here and your dog is friendly come on down the people are nice.\n\"",
+            "\"More retention basin than park, no equipment, no bathrooms.\n\"",
+            "\"Linear park with multiple fields for dog walking.\n\""
+        ],
+        "stars": "Rating: 8/10 - 5 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/j-parks"
+    },
+    {
+        "address": "7858 S 35TH AVE",
+        "lat": "33.37625608",
+        "lng": "-112.1410605",
+        "name": "Cesar Chavez Park",
+        "reviews": [
+            "\"Great place for family and friends to spend time outside.\n\"",
+            "\"Dog area separated for large and small dogs.\n\"",
+            "\"Great park to fish, run and family gatherings.\n\""
+        ],
+        "stars": "Rating: 9/10 - 31 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "5802 E INDIAN SCHOOL RD",
+        "lat": "33.49073327",
+        "lng": "-111.9571828",
+        "name": "G. R. Herberger Park",
+        "reviews": [
+            "\"Bring a rake for volleyball but great facility\n\"",
+            "\"It is cool to walk over to the water fall thing too, check it out!\n\"",
+            "\"They have restrooms and sufficient parking.\n\""
+        ],
+        "stars": "Rating: 9/10 - 4 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks"
+    },
+    {
+        "address": "625 N GALVIN PKWY",
+        "lat": "33.45534804",
+        "lng": "-111.9471595",
+        "name": "Papago Park",
+        "reviews": [],
+        "stars": "Rating: 8/10 - 119 reviews",
+        "url": "https://www.phoenix.gov/parks/trails/locations/papago-park"
+    },
+    {
+        "address": "1125 N 3RD AVE",
+        "lat": "33.46077242",
+        "lng": "-112.0769606",
+        "name": "Japanese Friendship Garden",
+        "reviews": [
+            "\"I did a photo shoot in there, beautiful place friendly staff\n\"",
+            "\"Pleasant place to walk and enjoy the Japanese setting.\n\"",
+            "\"Cute little place...wish it was a bit bigger and had a larger variety of plants.\n\""
+        ],
+        "stars": "Rating: 4 - 290 reviews",
+        "url": "http://www.japanesefriendshipgarden.org/"
+    },
+    {
+        "address": "67 W CULVER ST",
+        "lat": "33.4621472",
+        "lng": "-112.076504",
+        "name": "Margaret T. Hance Deck Park",
+        "reviews": [
+            "\"Great place to ride walk or bring the dog.\n\"",
+            "\"Lots of homeless people in the park and sleeping in the bathrooms.\n\"",
+            "\"Grass was well kept, plenty of space, lots of parking nearby.\n\""
+        ],
+        "stars": "Rating: 8.4/10 - 66 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks"
+    },
+    {
+        "address": "6602 W ENCANTO BLVD",
+        "lat": "33.47512064",
+        "lng": "-112.1991167",
+        "name": "Desert West Sports Complex",
+        "reviews": [
+            "\"Park is somewhat larger due to all the soccer and baseball fields.\n\"",
+            "\"It fun and a lot of people go running\n\"",
+            "\"Come enjoy some morning or evening walks at Desert West Park.\n\""
+        ],
+        "stars": "Rating: 10/10 - 4 reviews",
+        "url": "https://www.phoenix.gov/parks/sports/complexes/desert-west"
+    },
+    {
+        "address": "2745 N 15TH AVE",
+        "lat": "33.47500498",
+        "lng": "-112.0901541",
+        "name": "Encanto Park",
+        "reviews": [
+            "\"Very good place to take the family and have a good night out BBQ fun family time\n\"",
+            "\"Cool place well located reasonably priced not the best area\n\"",
+            "\"I had fun watching 3 year olds playing soccer, lol, funny!\n\""
+        ],
+        "stars": "Rating: 2.5 - Review by Mark childress",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/e-parks/encanto-park"
+    },
+    {
+        "address": "2701 E SQUAW PEAK DR",
+        "lat": "33.538884",
+        "lng": "-112.0229525",
+        "name": "Phoenix Mountains Park and Recreation Area",
+        "reviews": [],
+        "stars": "Rating: 4.5 - 616 reviews",
+        "url": "https://www.phoenix.gov/parks/trails/locations/piestewa-peak"
+    },
+    {
+        "address": "14421 N 39TH AVE",
+        "lat": "33.61663173",
+        "lng": "-112.1417603",
+        "name": "Acoma Park",
+        "reviews": [
+            "\"It's a great place to walk with your toddler or take the dog for a walk.\n\"",
+            "\"It's surrounded by a quiet neighborhood and the people seem to be quite nice.\n\"",
+            "\"Nice neighborhood park in community setting.\n\""
+        ],
+        "stars": "Rating: 4.5 - 2 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/a-parks"
+    },
+    {
+        "address": "3711 E ALTADENA AVE",
+        "lat": "33.59198988",
+        "lng": "-112.0018689",
+        "name": "Altadena Park",
+        "reviews": [],
+        "stars": "Rating: 4 - 8 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/a-parks"
+    },
+    {
+        "address": "3402 N 56TH ST",
+        "lat": "33.48819745",
+        "lng": "-111.9624231",
+        "name": "Arcadia Park",
+        "reviews": [
+            "\"Beautiful stroll by Starbucks and all the people ride sharing their Lime bikes.\n\"",
+            "\"Yet, there is a HUGE playground for kids, definitely enough room to run around.\n\"",
+            "\"Great location but needs some attention.\n\""
+        ],
+        "stars": "Rating: 6.9/10 - 14 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/a-parks"
+    },
+    {
+        "address": "19250 N 16TH ST",
+        "lat": "33.6603666",
+        "lng": "-112.0473005",
+        "name": "Buffalo Ridge Park",
+        "reviews": [
+            "\"Fun & challenging disc golf course bring lots of water and wear some good shoes!\n\"",
+            "\"As parks in the Phoenix area go, this place is barely acceptable.\n\"",
+            "\"It's my favorite place to hike hangout or chill with friends and family.\n\""
+        ],
+        "stars": "Rating: 8/10 - 15 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/b-parks"
+    },
+    {
+        "address": "22222 N 44TH ST",
+        "lat": "33.68875101",
+        "lng": "-111.9809267",
+        "name": "Cashman Park",
+        "reviews": [
+            "\"Nice playground, sand volleyball, open fields, restrooms\n\"",
+            "\"Great place for a birthday party.\n\"",
+            "\"Pet friendly, plus a bathroom area.\n\""
+        ],
+        "stars": "Rating: 4 - 5 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "4121 E LUPINE AVE",
+        "lat": "33.59054905",
+        "lng": "-111.9901243",
+        "name": "Cholla Cove Park",
+        "reviews": [
+            "\"Nice small park with a basketball court, an exercise trail, and playground.\n\"",
+            "\"Slides are cracking and blocked off.\n\"",
+            "\"Great neighborhood park\n\""
+        ],
+        "stars": "Rating: 4.5 - 3 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "2223 E PUEBLO ST",
+        "lat": "33.40762337",
+        "lng": "-112.0332231",
+        "name": "Eototo Mini Park",
+        "reviews": [],
+        "stars": "Feb 16, 2011 - 20 posts - 14 authors",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/e-parks"
+    },
+    {
+        "address": "6505 N 20TH ST",
+        "lat": "33.53305858",
+        "lng": "-112.0368107",
+        "name": "Granada Park",
+        "reviews": [
+            "\"I’m glad I found this place to walk my dog before my move out of state.\n\"",
+            "\"The park is in a great area has plenty of room for the kids to run around.\n\"",
+            "\"The playground appeared to be well kept as well.\n\""
+        ],
+        "stars": "Rating: 4 - 24 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/g-parks"
+    },
+    {
+        "address": "945 N 11TH AVE",
+        "lat": "33.45675235",
+        "lng": "-112.0866684",
+        "name": "Hu-O-Te Mini Park",
+        "reviews": [],
+        "stars": "$595,000.00",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks"
+    },
+    {
+        "address": "3101 N 41ST DR",
+        "lat": "33.48439494",
+        "lng": "-112.1481021",
+        "name": "Ladmo Park",
+        "reviews": [
+            "\"Small park,well maintained\n\"",
+            "\"A playground and picnic table, that's it.\n\"",
+            "\"Too many begging homeless ppl make this beautiful park unenjoyable\n\""
+        ],
+        "stars": "Rating: 4 - 3 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/l-parks"
+    },
+    {
+        "address": "2601 E SOUTHGATE AVE",
+        "lat": "33.40936792",
+        "lng": "-112.024882",
+        "name": "Lenang Mini Park",
+        "reviews": [
+            "\"Kool 4 basketball nothing else small no grass or barbecue\n\"",
+            "\"It's just a basketball court and benches near my home.\n\""
+        ],
+        "stars": "$211,900.00",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/l-parks"
+    },
+    {
+        "address": "1307 W SHERMAN ST",
+        "lat": "33.439538",
+        "lng": "-112.0895426",
+        "name": "Ninos Mini Park",
+        "reviews": [],
+        "stars": "$129,500.00",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/n-parks"
+    },
+    {
+        "address": "1224 E HATCHER RD",
+        "lat": "33.57178681",
+        "lng": "-112.0539763",
+        "name": "Norton Park",
+        "reviews": [
+            "\"Great place to play ball and skate.\n\"",
+            "\"A lot of homeless people and with them comes their thrash.\n\"",
+            "\"Small neighborhood park in Sunnyslope.\n\""
+        ],
+        "stars": "Rating: 4 - 1 review",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/n-parks"
+    },
+    {
+        "address": "3201 N 47TH DR",
+        "lat": "33.48608565",
+        "lng": "-112.1607508",
+        "name": "Orme Park",
+        "reviews": [
+            "\"Good people and good place.\n\"",
+            "\"Small neighborhood park\n\"",
+            "\"Has plenty of space to play soccer, football, even has a basketball court.\n\""
+        ],
+        "stars": "Rating: 5 - 1 vote",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/o-parks"
+    },
+    {
+        "address": "1135 E DUNLAP AVE",
+        "lat": "33.56682176",
+        "lng": "-112.0578095",
+        "name": "Palma Park",
+        "reviews": [
+            "\"Very nice place, clean playground, and baseball diamond\n\"",
+            "\"Lots of open space for my dog to run.\n\"",
+            "\"Alot of homeless people.\n\""
+        ],
+        "stars": "Rating: 7/10 - 2 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/p-parks"
+    },
+    {
+        "address": "15815 N 30TH ST",
+        "lat": "33.6301309",
+        "lng": "-112.0166776",
+        "name": "Palomino Park",
+        "reviews": [
+            "\"Good park needs more lighting though and constantly littered with beer bottles\n\"",
+            "\"Come by in the evening and you'll find people of all ages enjoying the park.\n\"",
+            "\"They upkeep it about twice a month and could use some renovation.\n\""
+        ],
+        "stars": "Rating: 4.5 - 2 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/p-parks"
+    },
+    {
+        "address": "3930 E MONTE CRISTO AVE",
+        "lat": "33.63251071",
+        "lng": "-111.9982619",
+        "name": "Paradise Cove Park",
+        "reviews": [
+            "\"Great place to walk the dog.\n\"",
+            "\"Lots of grassy areas and a lovely sidewalk to run or walk on.\n\"",
+            "\"Park was clean, playground was very fun for child.\n\""
+        ],
+        "stars": "Rating: 6.8/10 - 9 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/p-parks"
+    },
+    {
+        "address": "2700 N 32ND ST",
+        "lat": "33.47774583",
+        "lng": "-112.0140228",
+        "name": "Perry Park",
+        "reviews": [
+            "\"Clean place, professional staff.\n\"",
+            "\"There are a lot of homeless people who've made this Park their home.\n\"",
+            "\"The playground is not very large and the equipment is pretty old.\n\""
+        ],
+        "stars": "Rating: 4.1 - 15 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/p-parks"
+    },
+    {
+        "address": "2702 E SOUTH MOUNTAIN AVE",
+        "lat": "33.3716219",
+        "lng": "-112.0241146",
+        "name": "Francisco Highland Park",
+        "reviews": [
+            "\"Nice place to walk your dog or for kids to play, with parking for about 20 cars.\n\"",
+            "\"Quaint little park with a great playground for children (and adults).\n\"",
+            "\"Also a couple of tables and benches with built in grills.\n\""
+        ],
+        "stars": "Rating: 4.8 - 4 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/f-parks"
+    },
+    {
+        "address": "19226 N TATUM BLVD",
+        "lat": "33.66034838",
+        "lng": "-111.979144",
+        "name": "Reach 11 Recreation Area",
+        "reviews": [
+            "\"Shopping is close by for food -- real meals or fast options for between games.\n\"",
+            "\"I took my small did with me on the walk as well and she had no problems.\n\"",
+            "\"The dog loves romping around the place though.\n\""
+        ],
+        "stars": "Rating: 4.5 - 4 reviews",
+        "url": "https://www.phoenix.gov/parks/trails/locations/reach-11"
+    },
+    {
+        "address": "4205 S 15TH AVE",
+        "lat": "33.40073561",
+        "lng": "-112.089931",
+        "name": "Roesley Park",
+        "reviews": [
+            "\"Nice park clean heads nice place to take your little ones\n\"",
+            "\"Looks nice bathrooms\n\"",
+            "\"Yet not so nice with the homeless that stay in it all.\n\""
+        ],
+        "stars": "$179,900.00",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/r-parks"
+    },
+    {
+        "address": "14425 N 32ND ST",
+        "lat": "33.61622846",
+        "lng": "-112.011593",
+        "name": "Venturoso Park",
+        "reviews": [
+            "\"Great dog park and soccer practice place.\n\"",
+            "\"Really nice and clean no restroom but good for family time\n\"",
+            "\"Small but nice and close by neighborhood park.\n\""
+        ],
+        "stars": "Rating: 7/10 - 2 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/v-parks"
+    },
+    {
+        "address": "916 E VAN BUREN ST",
+        "lat": "33.45212868",
+        "lng": "-112.0613874",
+        "name": "Verde Park",
+        "reviews": [
+            "\"Beautiful place to visit relaxing BBQ Pits open from 6 a.m. to 10 p.m.\n\"",
+            "\"My past experience at verde park was fun and nice people\n\"",
+            "\"Gets busy after 5pm with informal soccer gatherings by nearby residents.\n\""
+        ],
+        "stars": "Rating: 4.7 - 10 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/v-parks"
+    },
+    {
+        "address": "16020 S 30TH ST",
+        "lat": "33.29918976",
+        "lng": "-112.0207168",
+        "name": "Vista Canyon Park",
+        "reviews": [
+            "\"Great place to take the dog & family.\n\"",
+            "\"Tons of space and really nice playground equipment.\n\"",
+            "\"Small park with a few diamonds, fields and a playground.\n\""
+        ],
+        "stars": "Rating: 6/10 - 4 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/v-parks"
+    },
+    {
+        "address": "17831 N 7TH AVE",
+        "lat": "33.64812109",
+        "lng": "-112.0811024",
+        "name": "Werner's Field Park",
+        "reviews": [
+            "\"Nice place great for picnics and family outings\n\"",
+            "\"People probably spend average of an hour and a half here, at a time.\n\"",
+            "\"Play area for younger children and large field to play in.\n\""
+        ],
+        "stars": "Feb 18, 2016 - 7 posts - 6 authors",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/w-parks"
+    },
+    {
+        "address": "4425 E WESTERN STAR BLVD",
+        "lat": "33.35390146",
+        "lng": "-111.9877667",
+        "name": "Western Star Park",
+        "reviews": [
+            "\"Nice equipment, plenty of space, restrooms and fountains, and good parking.\n\"",
+            "\"It's a great place to bring the family.\n\"",
+            "\"It has a big amenity area with a variety of displays for children to play.\n\""
+        ],
+        "stars": "Rating: 8.1/10 - 16 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/w-parks"
+    },
+    {
+        "address": "4550 E DYNAMITE BLVD",
+        "lat": "33.74227801",
+        "lng": "-111.982868",
+        "name": "Dynamite Park",
+        "reviews": [],
+        "stars": "Rating: 10/10 - 1 review",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/d-parks"
+    },
+    {
+        "address": "301 E DUNLAP AVE",
+        "lat": "33.56684299",
+        "lng": "-112.0786336",
+        "name": "Herberger Park",
+        "reviews": [],
+        "stars": "Rating: 4.5 - 36 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks"
+    },
+    {
+        "address": "1901 W DESERT VISTA TR",
+        "lat": "33.74086628",
+        "lng": "-112.0974147",
+        "name": "Sonoran Preserve",
+        "reviews": [
+            "\"We really enjoyed this very pristine hike so close to town.\n\"",
+            "\"Great scenery and desert views for hiking\n\"",
+            "\"You must bring in your own water.\n\""
+        ],
+        "stars": "Rating: 4 - 9 reviews",
+        "url": "https://www.phoenix.gov/parks/trails/locations/sonoran-preserve"
+    },
+    {
+        "address": "19224 N TATUM BLVD",
+        "lat": "33.66329913",
+        "lng": "-111.9860153",
+        "name": "Arizona Horse Lovers Park",
+        "reviews": [
+            "\"Great place to ride.\n\"",
+            "\"I wish there were a way they could allow people to play Pokémon there safely.\n\"",
+            "\"AZ equestrians are so lucky to have this facility!\n\""
+        ],
+        "stars": "Rating: 4.5 - 2 reviews",
+        "url": "http://phoenix.gov/parks/parks/azhlp.html"
+    },
+    {
+        "address": "2100 E GEORGIA AVE",
+        "lat": "33.51472717",
+        "lng": "-112.0367033",
+        "name": "Bartlett Circle",
+        "reviews": [],
+        "stars": "Vol. 165, No. 9 - Magazine",
+        "url": ""
+    },
+    {
+        "address": "N CAVE CREEK RD/JOMAX RD",
+        "lat": "33.72645262",
+        "lng": "-112.0098295",
+        "name": "Cave Buttes Recreation Area",
+        "reviews": [],
+        "stars": "by LOSAC DISTRICT",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "26777 N DEEM HILLS PKWY",
+        "lat": "33.72745798",
+        "lng": "-112.1665234",
+        "name": "Deem Hills Park",
+        "reviews": [],
+        "stars": "Rating: 4.5 - 11 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/d-parks"
+    },
+    {
+        "address": "6602 W ENCANTO BLVD",
+        "lat": "33.47430542",
+        "lng": "-112.2010654",
+        "name": "Desert West Park",
+        "reviews": [],
+        "stars": "Rating: 10/10 - 4 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/d-parks"
+    },
+    {
+        "address": "5950 N ECHO CANYON PKWY",
+        "lat": "33.51458486",
+        "lng": "-111.9614035",
+        "name": "Camelback Mountain",
+        "reviews": [],
+        "stars": "Rating: 4.5 - 237 reviews",
+        "url": "https://www.phoenix.gov/parks/trails/locations/camelback-mountain"
+    },
+    {
+        "address": "1425 S 5TH AVE",
+        "lat": "33.43406808",
+        "lng": "-112.0798616",
+        "name": "Harmon Park",
+        "reviews": [
+            "\"Harman Library is a great place to work\n\"",
+            "\"Trash and homeless people\n\"",
+            "\"Theres a library 2 baseball fields new playground\n\""
+        ],
+        "stars": "Rating: 3.9 - 7 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks"
+    },
+    {
+        "address": "3200 N 65TH AVE",
+        "lat": "33.48582378",
+        "lng": "-112.199873",
+        "name": "Maryvale Tot Lot Park",
+        "reviews": [],
+        "stars": "by E Cota - 2009 - Related articles",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/m-parks"
+    },
+    {
+        "address": "16406 N 10TH AVE",
+        "lat": "33.63452324",
+        "lng": "-112.086662",
+        "name": "Moonlight Park",
+        "reviews": [],
+        "stars": "Rating: 4 - 1 review",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/m-parks"
+    },
+    {
+        "address": "N 44TH ST / E THOMAS RD",
+        "lat": "33.48628323",
+        "lng": "-111.978248",
+        "name": "Old Crosscut Canal Park",
+        "reviews": [
+            "\"Great place to run and your dogs 🐕🚴🏃\n\"",
+            "\"Small shopping center.\n\"",
+            "\"My dog gives it 5 paws\n\""
+        ],
+        "stars": "Rating: 3 - 1 review",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/o-parks"
+    },
+    {
+        "address": "6201 E OAK ST",
+        "lat": "33.47045086",
+        "lng": "-111.9452135",
+        "name": "Papago Softball Complex",
+        "reviews": [
+            "\"Home to approximately 3,000 German U-boat sailors in WWII.\n\"",
+            "\"No dogs allowed and the staff are absolutely rude about everything!\n\"",
+            "\"It is a great competition area\n\""
+        ],
+        "stars": "Rating: 8/10 - 3 reviews",
+        "url": "https://www.phoenix.gov/parks/sports/complexes/papago"
+    },
+    {
+        "address": "17642 N 40TH ST",
+        "lat": "33.64891794",
+        "lng": "-111.9984581",
+        "name": "Paradise Valley Park",
+        "reviews": [
+            "\"A little pricey but good food great atmosphere nice place good locations\n\"",
+            "\"Awesome dog park with an area for small and large dogs.\n\"",
+            "\"Homeless locked bathrooms and wouldn't allow any of our 1st grade students in.\n\""
+        ],
+        "stars": "Rating: 3.7 - 3 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/p-parks"
+    },
+    {
+        "address": "3435 W PINNACLE PEAK RD",
+        "lat": "33.69651293",
+        "lng": "-112.1328148",
+        "name": "Paseo Highlands Park",
+        "reviews": [],
+        "stars": "Rating: 10/10 - 3 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/p-parks"
+    },
+    {
+        "address": "17010 S 48TH ST",
+        "lat": "33.29172017",
+        "lng": "-111.9837563",
+        "name": "Pecos Park",
+        "reviews": [],
+        "stars": "Rating: 4.5 - 5 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/p-parks"
+    },
+    {
+        "address": "2150 N 46TH ST",
+        "lat": "33.47105435",
+        "lng": "-111.9838121",
+        "name": "Pierce Park",
+        "reviews": [
+            "\"In addition you'll find BBQ's for family picnics and a children's play area.\n\"",
+            "\"Great place to play soccer with friends and family.\n\"",
+            "\"New wood chips new equipment its great\n\""
+        ],
+        "stars": "Rating: 8/10 - 2 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/p-parks"
+    },
+    {
+        "address": "7215 W VINEYARD RD",
+        "lat": "33.38534074",
+        "lng": "-112.2126187",
+        "name": "Trailside Point Park",
+        "reviews": [
+            "\"More shade areas to sit and have better views watching the children playing.\n\"",
+            "\"Nice place to live alot of rude ppl.\n\"",
+            "\"Ok park, kids area, lake, BBQ grills.\n\""
+        ],
+        "stars": "Rating: 5 - 3 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/t-parks"
+    },
+    {
+        "address": "1702 W PEORIA AVE",
+        "lat": "33.5824852",
+        "lng": "-112.0955241",
+        "name": "Winifred Green Park",
+        "reviews": [
+            "\"Small neighborhood park good for small children has 🚻\n\"",
+            "\"Nice quiet neighborhood, neighbor friendly.\n\""
+        ],
+        "stars": "Rating: 5 - 1 vote",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/w-parks"
+    },
+    {
+        "address": "7858 S 35TH AVE",
+        "lat": "33.37350021",
+        "lng": "-112.1451481",
+        "name": "Cesar Chavez Sports Complex",
+        "reviews": [
+            "\"Great place for family and friends to spend time outside.\n\"",
+            "\"Dog area separated for large and small dogs.\n\"",
+            "\"Great park to fish, run and family gatherings.\n\""
+        ],
+        "stars": "Rating: 9/10 - 31 reviews",
+        "url": "https://www.phoenix.gov/parks/sports/tennis"
+    },
+    {
+        "address": "2500 W JEFFERSON ST",
+        "lat": "33.44717043",
+        "lng": "-112.1134087",
+        "name": "Hyde Mini Park",
+        "reviews": [],
+        "stars": "Rating: 4 - 1 review",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks"
+    },
+    {
+        "address": "1125 N 3RD AVE",
+        "lat": "33.46122788",
+        "lng": "-112.0754203",
+        "name": "Japanese Tea house",
+        "reviews": [
+            "\"I did a photo shoot in there, beautiful place friendly staff\n\"",
+            "\"Pleasant place to walk and enjoy the Japanese setting.\n\"",
+            "\"Cute little place...wish it was a bit bigger and had a larger variety of plants.\n\""
+        ],
+        "stars": "Rating: 4 - 290 reviews",
+        "url": "http://www.japanesefriendshipgarden.org/"
+    },
+    {
+        "address": "25TH AVE & CACTUS RD",
+        "lat": "33.59570617",
+        "lng": "-112.1126451",
+        "name": "Cave Creek Park - Cactus",
+        "reviews": [],
+        "stars": "Rating: 3.5 - 6 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "25TH AVE & CHOLLA ST",
+        "lat": "33.58919125",
+        "lng": "-112.1135334",
+        "name": "Cave Creek Park - Cholla",
+        "reviews": [
+            "\"I go to parks to get away from people and enjoy the scenery.\n\"",
+            "\"Great place to have fun with your family.\n\"",
+            "\"Great space and nice playground for kids too!\n\""
+        ],
+        "stars": "Rating: 4 - 5 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "23RD AVE & THUNDERBIRD RD",
+        "lat": "33.60909626",
+        "lng": "-112.1089473",
+        "name": "Cave Creek Park - Thunderbird",
+        "reviews": [
+            "\"Great place to walk dogs but creepy at night\n\"",
+            "\"Say 3/10 times you will run in to a drug addict or homeless people.\n\"",
+            "\"Cave Creek Park has tons to offer!\n\""
+        ],
+        "stars": "Rating: 8/10 - 1 review",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "6330 N 21ST AVE",
+        "lat": "33.53041799",
+        "lng": "-112.1048022",
+        "name": "Phoenix Tennis Center",
+        "reviews": [
+            "\"Great tennis courts nice staff of people and good area to play some tennis\n\"",
+            "\"I bit close to the dog park however it's right next to plenty of parking.\n\"",
+            "\"Nice tennis complex - facilities a little dated, but courts are great!\n\""
+        ],
+        "stars": "Rating: 7/10 - 16 reviews",
+        "url": "https://www.phoenix.gov/parks/sports/tennis"
+    },
+    {
+        "address": "3402 W CAMPBELL AVE",
+        "lat": "33.50392148",
+        "lng": "-112.1316197",
+        "name": "Cielito Park",
+        "reviews": [
+            "\"Good place to jog, walk, walk the dog, and workout.\n\"",
+            "\"Dont go at night a lot of homeless people\n\"",
+            "\"A lot of open space picnic tables & playgrounds good for the family\n\""
+        ],
+        "stars": "Rating: 10/10 - 1 review",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "3600 N 51ST AVE",
+        "lat": "33.49049849",
+        "lng": "-112.1721648",
+        "name": "Maryvale Baseball Park",
+        "reviews": [
+            "\"Small park with great food, easy parking, and great seating.\n\"",
+            "\"Cheaper beer than any other spring training place I've been too.\n\"",
+            "\"Homeless people doing drugs on the playground\n\""
+        ],
+        "stars": "Rating: 8/10 - 60 reviews",
+        "url": "https://www.phoenix.gov/parkssite/Pages/sportsmarystad.aspx"
+    },
+    {
+        "address": "1541 E JEFFERSON ST",
+        "lat": "33.44678877",
+        "lng": "-112.0489039",
+        "name": "Eastlake Park",
+        "reviews": [
+            "\"Great place for family gathering.\n\"",
+            "\"Lots and Lots of homeless people stay and sleep their.\n\"",
+            "\"Very clean new amenities close to downtown and kid friendly lol\n\""
+        ],
+        "stars": "Rating: 10/10 - 1 review",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/e-parks"
+    },
+    {
+        "address": "10919 S CENTRAL AVE",
+        "lat": "33.34817544",
+        "lng": "-112.0835163",
+        "name": "South Mountain Park",
+        "reviews": [
+            "\"Potable water and restroom facilities are located at some trail head entrances.\n\"",
+            "\"Has nice area to eat lunch with covered picnic tables and bathrooms.\n\"",
+            "\"Hiking South Mountain is good for family and friends Good place to meet\n\""
+        ],
+        "stars": "Rating: 4.5 - 1,134 reviews",
+        "url": "https://www.phoenix.gov/parks/trails/locations/south-mountain"
+    },
+    {
+        "address": "3434 W DUNLAP AVE",
+        "lat": "33.56917906",
+        "lng": "-112.1326448",
+        "name": "Cortez Park",
+        "reviews": [
+            "\"Great open area can't wait for baby shower there next week\n\"",
+            "\"Tons of homeless and people were doing drugs in the bathrooms.\n\"",
+            "\"Awesome place for all ages, can bring food and drink in.\n\""
+        ],
+        "stars": "Rating: 2 - 5 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "19602 N 19TH AVE",
+        "lat": "33.66380626",
+        "lng": "-112.101996",
+        "name": "Deer Valley Park",
+        "reviews": [
+            "\"Enjoyed the fireworks show and evening play with newer playground equipment!\n\"",
+            "\"Room set aside with lunch for the team's and their coaches to eat.\n\"",
+            "\"Nice place to chill, get a workout in, or walk your pet.\n\""
+        ],
+        "stars": "Rating: 6/10 - 5 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/d-parks"
+    },
+    {
+        "address": "1010 E MARKETPLACE SW",
+        "lat": "33.30415418",
+        "lng": "-112.0588284",
+        "name": "Desert Foothills Park",
+        "reviews": [
+            "\"Great place to walk but has bathrooms with NO doors\n\"",
+            "\"There is an ample area for parking, with handicap parking as well.\n\"",
+            "\"Good music, different bands play each time.\n\""
+        ],
+        "stars": "Rating: 8/10 - 5 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/d-parks"
+    },
+    {
+        "address": "7810 W OSBORN RD",
+        "lat": "33.48800949",
+        "lng": "-112.2281866",
+        "name": "Starlight Park",
+        "reviews": [
+            "\"Quiet neighborhood park..Small sage place and clean unlike Oso Park..\n\"",
+            "\"Great church, they love the Lord, and people.\n\"",
+            "\"A bit small, but still good area for playing sports.\n\""
+        ],
+        "stars": "Rating: 3.5 - 17 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/s-parks"
+    },
+    {
+        "address": "2352 E CHRISTY DR",
+        "lat": "33.58551024",
+        "lng": "-112.03137",
+        "name": "Christy Cove Park",
+        "reviews": [],
+        "stars": "Rating: 8/10 - 5 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "902 W COLTER ST",
+        "lat": "33.51344277",
+        "lng": "-112.0847581",
+        "name": "Colter Park",
+        "reviews": [
+            "\"Playground basketball court and covered seating and other amenities.\n\"",
+            "\"Enough room to play baseball and soccer...Great for riding a bike or skateboard\n\"",
+            "\"My children love this place\n\""
+        ],
+        "stars": "Rating: 4 - 5 votes - $815.00 to $1,140.00",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "15645 N 31ST AVE",
+        "lat": "33.63247006",
+        "lng": "-112.1261955",
+        "name": "Conocido Park",
+        "reviews": [],
+        "stars": "Rating: 7.1/10 - 18 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "3120 W BANFF LN",
+        "lat": "33.62097678",
+        "lng": "-112.1277412",
+        "name": "Country Gables Park",
+        "reviews": [
+            "\"What a cool place plenty of sights, oh and pokestops:)\n\"",
+            "\"This place is Awesome!\n\"",
+            "\"It's a small park, but it's nice and clean.\n\""
+        ],
+        "stars": "Rating: 4 - 1 vote",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "2730 E BEARDSLEY RD",
+        "lat": "33.67108162",
+        "lng": "-112.0251363",
+        "name": "Coyote Basin Park",
+        "reviews": [
+            "\"Only bad thing is no bathrooms and small parking lot\n\"",
+            "\"Nice place with children's play area\n\"",
+            "\"Have met some nice people walking dogs.\n\""
+        ],
+        "stars": "Rating: 4 - 2 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "16002 N 56TH ST",
+        "lat": "33.63144636",
+        "lng": "-111.962341",
+        "name": "Desert Horizon Park",
+        "reviews": [
+            "\"Has children’s play area, restroom n water facility\n\"",
+            "\"Big park Good family park Swings, climbing equipment, slides\n\"",
+            "\"Has got jogging options, basket ball court, sand area\n\""
+        ],
+        "stars": "Rating: 9/10 - 10 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/d-parks"
+    },
+    {
+        "address": "8550 W ENCANTO AVE",
+        "lat": "33.47292203",
+        "lng": "-112.2448315",
+        "name": "Desert Star Park",
+        "reviews": [
+            "\"Great place for children\n\"",
+            "\"It's a small park where the kids can play while you workout.\n\"",
+            "\"Playground and a little workout area.\n\""
+        ],
+        "stars": "Rating: 4 - 10 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/d-parks"
+    },
+    {
+        "address": "4040 E DESERT WILLOW PKWY W",
+        "lat": "33.76493062",
+        "lng": "-111.9943859",
+        "name": "Desert Willow Park",
+        "reviews": [
+            "\"Nice clean Park family-orientated nice place to walk your dog\n\"",
+            "\"Has a small playground for little and bigger kids.\n\"",
+            "\"Wish there were water fountains for dogs\n\""
+        ],
+        "stars": "Rating: 7.6/10 - 14 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/d-parks"
+    },
+    {
+        "address": "3451 N 75TH AVE",
+        "lat": "33.48844589",
+        "lng": "-112.2184301",
+        "name": "El Oso Park",
+        "reviews": [
+            "\"A lot of walking trails & yummy Mexican corn & snacks\n\"",
+            "\"The Mexicans trash the place every weekend.\n\"",
+            "\"Awesome amenities and plenty of room to run around...\n\""
+        ],
+        "stars": "Rating: 4.1 - 75 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/e-parks"
+    },
+    {
+        "address": "6428 S 19TH AVE",
+        "lat": "33.38608388",
+        "lng": "-112.1013456",
+        "name": "El Prado Park",
+        "reviews": [
+            "\"Lots of room to run around with baseball diamonds and a playground.\n\"",
+            "\"Makes the park a good place to bring your family\n\"",
+            "\"There are always various families there as well as people walking their dogs.\n\""
+        ],
+        "stars": "Rating: 9/10 - 2 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/e-parks"
+    },
+    {
+        "address": "2230 W ROESER RD",
+        "lat": "33.39880937",
+        "lng": "-112.1065693",
+        "name": "Lindo Park",
+        "reviews": [
+            "\"My kids enjoyed the playground area! :-)\n\"",
+            "\"Clean location a few drifters.. will frequent.\n\"",
+            "\"This is the best place to play at\n\""
+        ],
+        "stars": "Rating: 4.4 - 25 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/l-parks"
+    },
+    {
+        "address": "3201 W MISSOURI AVE",
+        "lat": "33.51560792",
+        "lng": "-112.128174",
+        "name": "Little Canyon Park",
+        "reviews": [],
+        "stars": "Rating: 4.4 - 22 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/l-parks"
+    },
+    {
+        "address": "1440 E GLENROSA AVE",
+        "lat": "33.49925434",
+        "lng": "-112.0497381",
+        "name": "Madison Park",
+        "reviews": [
+            "\"A swimming pool, a small playground, and a very beat up baseball field.\n\"",
+            "\"This place is gonna be a good mind gathering\n\"",
+            "\"Lot's of homeless people.\n\""
+        ],
+        "stars": "Rating: 8/10 - 7 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/m-parks"
+    },
+    {
+        "address": "3203 W MORTEN AVE",
+        "lat": "33.54858318",
+        "lng": "-112.1278013",
+        "name": "Mariposa Park",
+        "reviews": [
+            "\"I like watching the people play tennis and the dogs being out with their owners.\n\"",
+            "\"I wanted a place to sit and eat dinner with my daughter so we stopped here.\n\"",
+            "\"Parking is a bit small, another small lot on the east side would be nice.\n\""
+        ],
+        "stars": "Rating: 5.3/10 - 9 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/m-parks"
+    },
+    {
+        "address": "3325 E MOUNTAIN VIEW RD",
+        "lat": "33.57473308",
+        "lng": "-112.0095907",
+        "name": "Mercury Mine Basin Park",
+        "reviews": [
+            "\"Great experience and excellent service friendly staff\n\"",
+            "\"Kids love it except when people allow their dogs to run free in the park.\n\"",
+            "\"Great place to plan any event big or small.\n\""
+        ],
+        "stars": "$565,000.00 - In stock",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/m-parks"
+    },
+    {
+        "address": "1432 E WOOD ST",
+        "lat": "33.40892854",
+        "lng": "-112.0499312",
+        "name": "Mong Mini park",
+        "reviews": [],
+        "stars": "Feb 16, 2011 - 20 posts - 14 authors",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/m-parks"
+    },
+    {
+        "address": "502 W CORAL GABLES DR",
+        "lat": "33.62732947",
+        "lng": "-112.0816542",
+        "name": "Moon Valley Park",
+        "reviews": [
+            "\"Great place to walk dogs, wonderful play ground for kids.\n\"",
+            "\"Fun place to bring your children\n\"",
+            "\"Safe environment for the kids with plenty of space.\n\""
+        ],
+        "stars": "Rating: 5 - 8 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/m-parks"
+    },
+    {
+        "address": "9901 N 7TH AVE",
+        "lat": "33.57719764",
+        "lng": "-112.0815128",
+        "name": "Mountain View II Park",
+        "reviews": [
+            "\"Great place to bring the kiddos!\n\"",
+            "\"I've spent a lot of time advocating and assisting homeless, mostly in that area.\n\"",
+            "\"Its a decent neighborhood park lots of room for kids to run around\n\""
+        ],
+        "stars": "Feb 18, 2016 - 7 posts - 6 authors",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/m-parks"
+    },
+    {
+        "address": "13647 S 50TH ST",
+        "lat": "33.32392291",
+        "lng": "-111.9744995",
+        "name": "Mountain Vista Park",
+        "reviews": [
+            "\"In the summer there's a small water playground for young children.\n\"",
+            "\"Great place for walking and jogging.\n\"",
+            "\"Sometimes people do not have their dogs on leashes.\n\""
+        ],
+        "stars": "Rating: 6.8/10 - 23 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/m-parks"
+    },
+    {
+        "address": "5702 E SWEETWATER AVE",
+        "lat": "33.60612206",
+        "lng": "-111.9583994",
+        "name": "Sereno Park",
+        "reviews": [
+            "\"Public Bathrooms Picnic areas Room to run and play\n\"",
+            "\"This is a very small park, but there are always a bunch of people around.\n\"",
+            "\"Nice place to bring your kids to play.\n\""
+        ],
+        "stars": "Rating: 9/10 - 4 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/s-parks"
+    },
+    {
+        "address": "4030 W SHERMAN RD",
+        "lat": "33.44141073",
+        "lng": "-112.1464405",
+        "name": "Smith Park",
+        "reviews": [],
+        "stars": "Rating: 4.3 - 3 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/s-parks"
+    },
+    {
+        "address": "5625 N 17TH AVE",
+        "lat": "33.51860165",
+        "lng": "-112.0944442",
+        "name": "Solano Park",
+        "reviews": [
+            "\"Great place to give away toys to children in need\n\"",
+            "\"Only thing that bothered me was how many homeless people there were there.\n\"",
+            "\"It's alright, there's always soccer games in the night.\n\""
+        ],
+        "stars": "Rating: 5 - 1 vote",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/s-parks"
+    },
+    {
+        "address": "300 E INDIAN SCHOOL RD",
+        "lat": "33.49816964",
+        "lng": "-112.0703309",
+        "name": "Steele Indian School Park",
+        "reviews": [
+            "\"A great place to take the dogs with 2 dog parks for small and large dogs\n\"",
+            "\"Access, parking ,clean , nice restrooms, lakes, paved bike paths , dog park\n\"",
+            "\"I can honestly say that the meal was in the top 5 of worse ever food eaten.\n\""
+        ],
+        "stars": "Rating: 3.5 - 53 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/s-parks/steele-indian-school"
+    },
+    {
+        "address": "4059 E RAY RD",
+        "lat": "33.31871244",
+        "lng": "-111.998001",
+        "name": "Sun Ray Park",
+        "reviews": [
+            "\"Good place for kids or to walk your dog.\n\"",
+            "\"A little small to take toddlers to play, other parks are better\n\"",
+            "\"Good park like to play baseball, also well kept park\n\""
+        ],
+        "stars": "Rating: 6.1/10 - 20 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/s-parks"
+    },
+    {
+        "address": "13230 N 44TH ST",
+        "lat": "33.60574023",
+        "lng": "-111.9880417",
+        "name": "Sweetwater Park",
+        "reviews": [
+            "\"Nice park that is well maintained, great place to play soccer or go for a run.\n\"",
+            "\"A great place to walk in the morning.\n\"",
+            "\"I have been taking my dogs here for almost 14 yrs.\n\""
+        ],
+        "stars": "Rating: 7/10 - 2 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/s-parks"
+    },
+    {
+        "address": "520 E LYNWOOD ST",
+        "lat": "33.46529521",
+        "lng": "-112.0668166",
+        "name": "Townsend Park",
+        "reviews": [],
+        "stars": "Rating: 4 - 1 vote",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/t-parks"
+    },
+    {
+        "address": "17414 N 12TH ST",
+        "lat": "33.64457559",
+        "lng": "-112.0591126",
+        "name": "Turtle Rock Park",
+        "reviews": [
+            "\"Well maintained landscaping and small playground.\n\"",
+            "\"Great place to take my dogs for a walk\n\"",
+            "\"Easy parking, convenient location.\n\""
+        ],
+        "stars": "Rating: 5 - 1 vote",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/t-parks"
+    },
+    {
+        "address": "2421 E NORTHERN AVE",
+        "lat": "33.56395945",
+        "lng": "-112.0296212",
+        "name": "Dreamy Draw Recreation Area",
+        "reviews": [
+            "\"Pretty cool place for hiking.\n\"",
+            "\"Great selection of trails for any level of workout.\n\"",
+            "\"Recommend getting there early to beat the heat and to get a parking space.\n\""
+        ],
+        "stars": "Rating: 9/10 - 49 reviews",
+        "url": "https://www.phoenix.gov/parks/trails/locations/piestewa-peak"
+    },
+    {
+        "address": "10600 N 7TH ST",
+        "lat": "33.58267512",
+        "lng": "-112.0663169",
+        "name": "North Mountain Recreation Area",
+        "reviews": [],
+        "stars": "Rating: 4 - 83 reviews",
+        "url": "https://www.phoenix.gov/parks/trails/locations/north-mountain"
+    },
+    {
+        "address": "4740 E RANCHO PALOMA DR",
+        "lat": "33.78610904",
+        "lng": "-111.9790377",
+        "name": "Dove Valley Park",
+        "reviews": [
+            "\"It also had a few picnic benches and regular benches around the walking area.\n\"",
+            "\"Great place to relax with family and pets.\n\"",
+            "\"Some of our best customers live in this neighborhood\n\""
+        ],
+        "stars": "Rating: 4.6 - 148 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/d-parks"
+    },
+    {
+        "address": "444 N CENTRAL AVE",
+        "lat": "33.45338247",
+        "lng": "-112.0744715",
+        "name": "Civic Space Park",
+        "reviews": [
+            "\"A few homeless folks but otherwise a nice park with a very cool piece of art.\n\"",
+            "\"I enjoy the wide variety of people watching here.\n\"",
+            "\"Great place to just sit for a bit and chill.\n\""
+        ],
+        "stars": "Rating: 6/10 - 1 review",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks/civic-space"
+    },
+    {
+        "address": "1510 S 19TH DR",
+        "lat": "33.43354275",
+        "lng": "-112.1016755",
+        "name": "Coffelt-Lamoreaux Park",
+        "reviews": [
+            "\"A Great new environment\n\"",
+            "\"Come a see how it been upgraded...\n\""
+        ],
+        "stars": "Rating: 4.6 - 11 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/c-parks"
+    },
+    {
+        "address": "29440 N CAVE CREEK RD",
+        "lat": "33.75185742",
+        "lng": "-111.9940484",
+        "name": "Desert Broom Park",
+        "reviews": [],
+        "stars": "Rating: 4.3 - 3 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/d-parks"
+    },
+    {
+        "address": "2439 S CENTRAL AVE",
+        "lat": "33.42363322",
+        "lng": "-112.0728444",
+        "name": "Rio Salado Habitat Restoration Area",
+        "reviews": [
+            "\"Very nice place to walk my dog seen there's not to much people here.\n\"",
+            "\"Hi...too many homeless ppl & toilet area not working properly...\n\"",
+            "\"Peaceful hiking atmosphere\n\""
+        ],
+        "stars": "Rating: 4 - 15 reviews",
+        "url": "https://www.phoenix.gov/parks/trails/locations/rio-salado"
+    },
+    {
+        "address": "2030 E SOUTHERN AVE",
+        "lat": "33.39547377",
+        "lng": "-112.0378169",
+        "name": "Hermoso Park",
+        "reviews": [
+            "\"Perfect for family gatherings, bring a grill\n\"",
+            "\"Beautiful park for the whole family BBQ areas baseball and soccer fields.\n\"",
+            "\"Several picnic areas, pool, plenty of open area and very good playground\n\""
+        ],
+        "stars": "Rating: 4.5 - 34 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks"
+    },
+    {
+        "address": "4530 N 67TH AVE",
+        "lat": "33.50386944",
+        "lng": "-112.2046559",
+        "name": "Holiday Park",
+        "reviews": [
+            "\"Located near a main Street with easy access...\n\"",
+            "\"Cool family Park, right in the neighborhood, close to home.\n\"",
+            "\"Nice place but a little small\n\""
+        ],
+        "stars": "Rating: 2/10 - 4 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/h-parks"
+    },
+    {
+        "address": "15800 N 66TH ST",
+        "lat": "33.63166975",
+        "lng": "-111.9397799",
+        "name": "Kierland Park",
+        "reviews": [
+            "\"Seems like a great place to live\n\"",
+            "\"Nice areas to walk around.\n\""
+        ],
+        "stars": "Rating: 3 - 1 review",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/k-parks"
+    },
+    {
+        "address": "4350 S 9TH AVE",
+        "lat": "33.40965572",
+        "lng": "-112.0848135",
+        "name": "Kipok Mini Park",
+        "reviews": [],
+        "stars": "by RVANS AFRIKA - Related articles",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/k-parks"
+    },
+    {
+        "address": "6830 N 39TH AVE",
+        "lat": "33.53671184",
+        "lng": "-112.1455273",
+        "name": "La Pradera Park",
+        "reviews": [
+            "\"It has restrooms, playground, tennis courts, baseball and soccer fields.\n\"",
+            "\"A homeless hang out bathrooms were locked tennis courts need attention\n\"",
+            "\"Its a really good place to bring kids and play soccer\n\""
+        ],
+        "stars": "Rating: 1 - 1 review",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/l-parks"
+    },
+    {
+        "address": "4040 N 14TH ST",
+        "lat": "33.49365824",
+        "lng": "-112.0526654",
+        "name": "Longview Park",
+        "reviews": [],
+        "stars": "Rating: 4.7 - 11 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/l-parks"
+    },
+    {
+        "address": "2802 E DEVONSHIRE AVE",
+        "lat": "33.49793607",
+        "lng": "-112.0199173",
+        "name": "Los Olivos Park",
+        "reviews": [
+            "\"I love this place under the olive trees perfect to walk your dog\n\"",
+            "\"Well kept up park, easy access and my grandchildren love it.\n\"",
+            "\"Great park to run, play, bring dogs, or just relax.\n\""
+        ],
+        "stars": "Rating: 4 - 12 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/l-parks"
+    },
+    {
+        "address": "5625 W OSBORN RD",
+        "lat": "33.48633486",
+        "lng": "-112.1799818",
+        "name": "Marivue Park",
+        "reviews": [
+            "\"Nicer than it was 20 yrs ago, always a good place for kids sports\n\"",
+            "\"Has nice fields you can lay down and sleep or you can go play soccer or baseball\n\"",
+            "\"Other than the location, which is in a unsafe area, great park.\n\""
+        ],
+        "stars": "Rating: 3.9 - 21 votes",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/m-parks"
+    },
+    {
+        "address": "1400 W JEFFERSON ST",
+        "lat": "33.44647591",
+        "lng": "-112.0908021",
+        "name": "Pioneer and Military Memorial Park",
+        "reviews": [
+            "\"Nice quiet place to think and relax\n\"",
+            "\"Much preservation work is needed and clearly is in progress.\n\""
+        ],
+        "stars": "Rating: 4.5 - 6 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/p-parks/pioneer"
+    },
+    {
+        "address": "2425 E DEER VALLEY RD",
+        "lat": "33.68560279",
+        "lng": "-112.0228533",
+        "name": "Reach 11 Sports Complex",
+        "reviews": [
+            "\"Premium soccer facility with clear signage and great grass\n\"",
+            "\"Some of the best quality soccer fields in the Phoenix area.\n\"",
+            "\"The fields are always well maintained, wish i could bring my dog :(\n\""
+        ],
+        "stars": "Rating: 9/10 - 12 reviews",
+        "url": "https://www.phoenix.gov/parks/sports/complexes/reach-11"
+    },
+    {
+        "address": "3502 E CACTUS RD",
+        "lat": "33.59898917",
+        "lng": "-112.00672",
+        "name": "Roadrunner Park",
+        "reviews": [
+            "\"The small lake has ducks and people can fish (with licenses).\n\"",
+            "\"Nice place for morning/evening walk or jog\n\"",
+            "\"Only problem is the public restrooms do not have soap to wash hands properly\n\""
+        ],
+        "stars": "Rating: 4 - 19 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/r-parks"
+    },
+    {
+        "address": "8401 N 15TH AVE",
+        "lat": "33.55855473",
+        "lng": "-112.0902717",
+        "name": "Royal Palm Park",
+        "reviews": [
+            "\"Great family place play ground great for children\n\"",
+            "\"Variety of activities and adequate space for small and large groups.\n\"",
+            "\"Huge park nice playground but no restroom facilities\n\""
+        ],
+        "stars": "Rating: 4 - 8 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/r-parks"
+    },
+    {
+        "address": "12444 N 7TH ST",
+        "lat": "33.59803828",
+        "lng": "-112.0662777",
+        "name": "Shaw Butte Recreation Area",
+        "reviews": [],
+        "stars": "Rating: 4.5 - 22 reviews",
+        "url": ""
+    },
+    {
+        "address": "1700 E MONROE ST",
+        "lat": "33.45042066",
+        "lng": "-112.0450734",
+        "name": "Sohu Mini Park",
+        "reviews": [],
+        "stars": "1906",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/s-parks"
+    },
+    {
+        "address": "802 E VOGEL AVE",
+        "lat": "33.57359785",
+        "lng": "-112.0613106",
+        "name": "Sunnyslope Park",
+        "reviews": [
+            "\"The people that work at the community centre are so nice and welcoming.\n\"",
+            "\"Good place to meet the elderly\n\"",
+            "\"Used to have the freshest an coldest water what happen?\n\""
+        ],
+        "stars": "Rating: 9/10 - 4 reviews",
+        "url": "https://www.phoenix.gov/parks/parks/alphabetical/s-parks"
+    },
+    {
+        "address": "2701 E SQUAW PEAK DR",
+        "lat": "33.54715821",
+        "lng": "-112.0209605",
+        "name": "Piestewa Peak Mountain Preserve",
+        "reviews": [],
+        "stars": "Rating: 4.5 - 616 reviews",
+        "url": "https://www.phoenix.gov/parks/trails/locations/piestewa-peak"
+    },
+    {
+        "address": "N 57TH AVE & HAPPY VALLEY RD",
+        "lat": "33.71896267",
+        "lng": "-112.1875963",
+        "name": "Ludden Mountain Preserve",
+        "reviews": [],
+        "stars": "Rating: 5 - 1 vote",
+        "url": ""
+    },
+    {
+        "address": "16TH ST & WALTANN LN",
+        "lat": "33.62721846",
+        "lng": "-112.0481605",
+        "name": "Lookout Mountain Preserve",
+        "reviews": [],
+        "stars": "$378,256.00",
+        "url": "https://www.phoenix.gov/parks/trails/locations/lookout-shadow-mountain"
+    },
+    {
+        "address": "14 W VERNON AVE",
+        "lat": "33.47425628",
+        "lng": "-112.0745585",
+        "name": "PHX Renews Vernon Avenue Pocket Park",
+        "reviews": [],
+        "stars": "$235,000.00",
+        "url": "http://phxrenews.org/locations/vernon"
+    }
+]
