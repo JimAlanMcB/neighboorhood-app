@@ -31,3 +31,74 @@
     background: #404040;
     border-right: 2px solid #1c7c99;
 }
+.locs-name {
+  cursor: pointer;
+  list-style-type: none;
+  padding: 10px 5px;
+  }
+.locs-name:hover{
+  background-color: #0a2b35;
+  color: white;
+}
+
+.query-locs-bar {
+  position: fixed;
+  width: 20%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 5;
+  display: flex;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 0 6px rgba(0,0,0,0.23);
+}
+.query-locs-input-wrapper {
+  flex: 1;
+  background: rgb(77, 193, 223);
+  height: 100%;
+  width: 100%;
+}
+.query-locs-bar input {
+  width: 100%;
+  height: 5%;
+  padding: 0px 0px;
+  font-size: .8em;
+  border: none;
+  outline: none;
+  
+}
+
+@media (max-width: 600px){
+
+.query-locs-bar {
+  position: fixed;
+  width: 100%;
+  height: 10%;
+  bottom: 0;
+  left: 0;
+  z-index: 5;
+  display: flex;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 0 6px rgba(0,0,0,0.23);
+}
+.query-locs-input-wrapper {
+  flex: 1;
+  background: rgb(25, 99, 117);
+  height: 100%;
+  width: 100%;
+}
+.query-locs-bar input {
+  width: 100%;
+  height: 100%;
+  padding: 0px 0px;
+  font-size: .8em;
+  border: none;
+  outline: none;
+  
+}
+.query-btn{
+  width: 100%;
+}
+.locs-name {
+ visibility: hidden;
+  }
+
+}
