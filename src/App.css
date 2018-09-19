@@ -1,16 +1,15 @@
-
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url("https://fonts.googleapis.com/css?family=Roboto");
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
-.infowindow{
+.infowindow {
   font-size: 12px;
   max-width: 200px;
 }
-.infowindow .title{
+.infowindow .title {
   color: rgba(0, 58, 165, 0.795);
 }
-.infowindow .address{
+.infowindow .address {
   color: rgb(90, 90, 90);
   text-transform: lowercase;
 }
@@ -26,16 +25,15 @@ body {
 }
 .menu {
   -webkit-box-flex: 1;
-    -ms-flex: 1;
-    /* flex: 1; */
-    -webkit-box-ordinal-group: 2;
-    -ms-flex-order: 1;
-    order: 1;
-    margin: 0;
-    padding: 0;
-    background: #404040;
-    border-right: 2px solid #1c7c99;
-    
+  -ms-flex: 1;
+  /* flex: 1; */
+  -webkit-box-ordinal-group: 2;
+  -ms-flex-order: 1;
+  order: 1;
+  margin: 0;
+  padding: 0;
+  background: #404040;
+  border-right: 2px solid #1c7c99;
 }
 .query-btn {
   background-color: #013f52;
@@ -49,26 +47,26 @@ body {
   width: 100%;
   cursor: pointer;
 }
-.query-btn:hover{
+.query-btn:hover {
   background-color: #1c7c99;
 }
 a:link {
-  color: #1c7c99
+  color: #1c7c99;
 }
 .locs-name {
   cursor: pointer;
   list-style-type: none;
   padding: 10px 5px;
   border-bottom: 1px solid #0a82a7c0;
-  }
-.locs-name:hover{
+}
+.locs-name:hover {
   background-color: #0a2b35;
   color: white;
 }
 .locs-link {
   list-style-type: none;
 }
-.locs-link:hover{
+.locs-link:hover {
   color: white;
 }
 .locs-holder {
@@ -84,7 +82,7 @@ a:link {
   left: 0;
   z-index: 5;
   display: flex;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 0 6px rgba(0,0,0,0.23);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 0 6px rgba(0, 0, 0, 0.23);
   overflow-y: scroll;
   background: rgb(77, 193, 223);
   padding-right: 0px;
@@ -102,44 +100,40 @@ a:link {
   width: 100%;
   height: 5%;
   padding: 0px 0px;
-  font-size: .8em;
+  font-size: 0.8em;
   border: none;
   outline: none;
-  
 }
 
-@media (max-width: 600px){
-
-.query-locs-bar {
-  position: fixed;
-  width: 100%;
-  height: 10%;
-  bottom: 0;
-  left: 0;
-  z-index: 5;
-  display: flex;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 0 6px rgba(0,0,0,0.23);
-}
-.query-locs-input-wrapper {
-  flex: 1;
-  background: rgb(25, 99, 117);
-  height: 100%;
-  width: 100%;
-}
-.query-locs-bar input {
-  width: 100%;
-  height: 100%;
-  padding: 0px 0px;
-  font-size: .8em;
-  border: none;
-  outline: none;
-  
-}
-.query-btn{
-  width: 100%;
-}
-.locs-name {
- visibility: hidden;
+@media (max-width: 600px) {
+  .query-locs-bar {
+    position: fixed;
+    width: 100%;
+    height: 10%;
+    bottom: 0;
+    left: 0;
+    z-index: 5;
+    display: flex;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 0 6px rgba(0, 0, 0, 0.23);
   }
-
+  .query-locs-input-wrapper {
+    flex: 1;
+    background: rgb(25, 99, 117);
+    height: 100%;
+    width: 100%;
+  }
+  .query-locs-bar input {
+    width: 100%;
+    height: 100%;
+    padding: 0px 0px;
+    font-size: 0.8em;
+    border: none;
+    outline: none;
+  }
+  .query-btn {
+    width: 100%;
+  }
+  .locs-name {
+    visibility: hidden;
+  }
 }

@@ -13,16 +13,15 @@ class Menu extends Component {
     console.log(this.props.locs);
   };
   handleLocationClick = e => {
-    let search = e.target.innerText.toLowerCase()
-    this.handleSearch(search)
-    // recenter map on location
+    let search = e.target.innerText.toLowerCase();
+    this.handleSearch(search);
   };
   clearSearch = () => {
-    this.handleSearch('')
-  }
+    this.props.clearSearch();
+  };
   sortFiveStars = () => {
-    // going to have to turn str to number, then search by value. 
-  }
+    // going to have to turn str to number, then search by value.
+  };
   render() {
     return (
       <div className="query-locs">
@@ -43,12 +42,15 @@ class Menu extends Component {
               Clear
             </button>
             <div className="locs-holder">
-            <h2>Parks in Phoenix</h2>
+              <h2>Parks in Phoenix</h2>
               {this.props.locs.map(l => {
                 return (
-                  <li key={l.name} className="locs-name" onClick={this.handleLocationClick}>
+                  <li
+                    key={l.name}
+                    className="locs-name"
+                    onClick={this.handleLocationClick}
+                  >
                     {l.name}
-                    
                   </li>
                 );
               })}

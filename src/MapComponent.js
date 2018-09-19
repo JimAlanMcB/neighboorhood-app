@@ -29,6 +29,7 @@ export class MapContainer extends Component {
             lat: 33.4484,
             lng: -112.074
           }}
+          center={this.props.center}
           className="map"
           onClick={this.props.onMapClicked}
         >
@@ -36,6 +37,7 @@ export class MapContainer extends Component {
             <Marker
               key={a.name}
               position={{ lat: a.lat, lng: a.lng }}
+              center={{ lat: a.lat, lng: a.lng }}
               onClick={this.props.onMarkerClick}
               name={a.name}
               address={a.address}

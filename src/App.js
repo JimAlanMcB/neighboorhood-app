@@ -9,7 +9,12 @@ class App extends Component {
     activeMarker: {},
     selectedPlace: {},
     showingInfoWindow: false,
-    locs: []
+    locs: [],
+    center: {},
+    initialCenter: {
+      lat: 33.4484,
+      lng: -112.074
+    }
   };
 
   componentDidMount() {
@@ -31,9 +36,9 @@ class App extends Component {
     this.setState({
       activeMarker: marker,
       selectedPlace: props,
-      showingInfoWindow: true
+      showingInfoWindow: true,
+      center: marker.center
     });
-    console.log(props);
   };
   onInfoWindowClose = () =>
     this.setState({
@@ -51,10 +56,11 @@ class App extends Component {
 
   onSearchLocs = query => {
     let newLocs;
-    query === ' ' ? query = '' : 
-    query.length < 1
-      ? this.setState({ locs: [], showingInfoWindow: false })
-      : this.setState({ showingInfoWindow: false });
+    query === " "
+      ? (query = "")
+      : query.length < 1
+        ? this.setState({ locs: [], showingInfoWindow: false })
+        : this.setState({ showingInfoWindow: false });
     LocsAPI.get().then(locs => {
       newLocs = locs
         .map(l => {
@@ -71,13 +77,34 @@ class App extends Component {
           a.name = a.name.toUpperCase();
           return a;
         });
-      this.setState({ locs: newLocs });
+      newLocs[0] === undefined
+        ? this.setState({ locs: [] })
+        : this.setState({
+            locs: newLocs,
+            selectedPlace: newLocs[0],
+            activeMarker: newLocs[0],
+            center: { lat: newLocs[0].lat, lng: newLocs[0].lng }, 
+          });
     });
+  };
+  clearSearch = () => {
+    this.setState({
+      center: {
+        lat: this.state.initialCenter.lat,
+        lng: this.state.initialCenter.lng
+      },
+      locs: []
+    });
+    this.getLocs();
   };
   render() {
     return (
       <div className="main">
-        <Menu onSearchLocs={this.onSearchLocs} locs={this.state.locs} />
+        <Menu
+          onSearchLocs={this.onSearchLocs}
+          locs={this.state.locs}
+          clearSearch={this.clearSearch}
+        />
         <MapContainer
           className="map"
           onMarkerClick={this.onMarkerClick}
@@ -88,6 +115,7 @@ class App extends Component {
           showingInfoWindow={this.state.showingInfoWindow}
           locs={this.state.locs}
           getLocs={this.getLocs}
+          center={this.state.center}
         />
       </div>
     );
