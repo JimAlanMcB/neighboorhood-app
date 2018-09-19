@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 
-
 import { Map, InfoWindow, Marker, GoogleApiWrapper } from "google-maps-react";
 
 export class MapContainer extends Component {
@@ -42,6 +41,7 @@ export class MapContainer extends Component {
               address={a.address}
               reviews={a.reviews}
               stars={a.stars}
+              url={a.url}
               // animation={this.props.google.maps.Animation.DROP}
             />
           ))}
@@ -61,7 +61,11 @@ export class MapContainer extends Component {
               ) : (
                 <h4>{this.props.selectedPlace.reviews}</h4>
               )}
-              {/* <a href={this.props.selectedPlace.url} /> */}
+              <li key={this.props.selectedPlace.name} className="locs-link">
+                <a href={this.props.selectedPlace.url} target="_blank">
+                  Website
+                </a>
+              </li>
             </div>
           </InfoWindow>
         </Map>

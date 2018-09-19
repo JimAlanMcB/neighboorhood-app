@@ -15,6 +15,7 @@ class Menu extends Component {
   handleLocationClick = e => {
     let search = e.target.innerText.toLowerCase()
     this.handleSearch(search)
+    // recenter map on location
   };
   clearSearch = () => {
     this.handleSearch('')
@@ -42,10 +43,12 @@ class Menu extends Component {
               Clear
             </button>
             <div className="locs-holder">
+            <h2>Parks in Phoenix</h2>
               {this.props.locs.map(l => {
                 return (
                   <li key={l.name} className="locs-name" onClick={this.handleLocationClick}>
                     {l.name}
+                    
                   </li>
                 );
               })}
