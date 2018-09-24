@@ -4,13 +4,9 @@ class Menu extends Component {
   state = {
     query: ""
   };
-
   handleSearch = query => {
     this.setState({ query: query });
     this.props.onSearchLocs(query);
-  };
-  handleSort = () => {
-    console.log(this.props.locs);
   };
   handleLocationClick = e => {
     let search = e.target.innerText.toLowerCase();
@@ -20,7 +16,7 @@ class Menu extends Component {
     this.props.clearSearch();
   };
   sortFiveStars = () => {
-    // going to have to turn str to number, then search by value.
+    this.props.sortFiveStars();
   };
   render() {
     return (
@@ -32,11 +28,8 @@ class Menu extends Component {
               placeholder="Search by Name or Rating"
               onChange={e => this.handleSearch(e.target.value)}
             />
-            <button className="query-btn" onClick={this.handleSort}>
-              Sort by Star Rating
-            </button>
             <button className="query-btn" onClick={this.sortFiveStars}>
-              5+ Stars only
+              4+ Stars only
             </button>
             <button className="query-btn" onClick={this.clearSearch}>
               Clear
@@ -54,9 +47,12 @@ class Menu extends Component {
                   </li>
                 );
               })}
+             
             </div>
           </div>
+         
         </div>
+        
       </div>
     );
   }

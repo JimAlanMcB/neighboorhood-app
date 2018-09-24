@@ -3,9 +3,11 @@ import "./App.css";
 import MapContainer from "./MapComponent";
 import * as LocsAPI from "./LocsAPI";
 import Menu from "./Menu";
+import MobileButton from "./MobileButton";
 
 class App extends Component {
   state = {
+    error: false,
     activeMarker: {},
     selectedPlace: {},
     showingInfoWindow: false,
@@ -16,21 +18,25 @@ class App extends Component {
       lng: -112.074
     }
   };
-
   componentDidMount() {
     this.getLocs();
   }
   getLocs = () => {
     let newLocs;
-    LocsAPI.get().then(locs => {
-      newLocs = locs.map(l => {
-        if (l.stars.startsWith("$")) {
-          l.stars = "No Rating";
-        }
-        return l;
+    LocsAPI.get()
+      .then(locs => {
+        this.setState({ error: false });
+        newLocs = locs.map(l => {
+          if (l.stars.startsWith("$")) {
+            l.stars = "No Rating";
+          }
+          return l;
+        });
+        this.setState({ locs: newLocs });
+      })
+      .catch(error => {
+        this.setState({ error: true });
       });
-      this.setState({ locs: newLocs });
-    });
   };
   onMarkerClick = (props, marker) => {
     this.setState({
@@ -53,7 +59,8 @@ class App extends Component {
         showingInfoWindow: false
       });
   };
-
+  // instead of building a search API endpoint, I built the query endpoint here basically.
+  // Filters the input fields, and only returns the correct locations from the filtered array.
   onSearchLocs = query => {
     let newLocs;
     query === " "
@@ -83,10 +90,11 @@ class App extends Component {
             locs: newLocs,
             selectedPlace: newLocs[0],
             activeMarker: newLocs[0],
-            center: { lat: newLocs[0].lat, lng: newLocs[0].lng }, 
+            center: { lat: newLocs[0].lat, lng: newLocs[0].lng }
           });
     });
   };
+  // clear the search and go back to center of the map
   clearSearch = () => {
     this.setState({
       center: {
@@ -97,13 +105,58 @@ class App extends Component {
     });
     this.getLocs();
   };
+
+  // I think this is a solution, however hacky. Created my PY program to scape the entire star rating div, which resulted in a string
+  // so I had to go through and clean it up, then return it back to previous state.
+  // Grab locations, REGEX to remove everything up to the first number, go through that new array and change each STR to a INT
+  // filter based on greater than 4, then turn it back into a full "rating" string.
+
+  sortFiveStars = () => {
+    let fiveStars = this.state.locs
+      .map(s => {
+        let stars = s.stars;
+        stars = stars.split();
+        stars = stars[0].replace(/[^0-9.,]+/, " ");
+        s.stars = stars;
+        return s;
+      })
+      .map(e => {
+        e.stars = Number(e.stars[1]);
+        return e;
+      })
+      .filter(e => e.stars > 4)
+      .map(e => {
+        let num = e.stars;
+        e.stars = `Rating: ${num}`;
+        return e;
+      });
+    this.setState({ locs: fiveStars, showingInfoWindow: false });
+  };
+
   render() {
-    return (
+    // If we are in error state from not fetching API, display error page. No need for react router ATM.
+    // Otherwise display map
+    return this.state.error ? (
+      <div className="error">
+        <div className="error-msg">
+          <div className="error-text">
+            looks like we had a big gap :'( refresh the page to try again
+            <br />
+            in the mean time check out this cool canyon
+            <br />
+            <a href="/" target="">
+              Go Home
+            </a>
+          </div>
+        </div>
+      </div>
+    ) : (
       <div className="main">
         <Menu
           onSearchLocs={this.onSearchLocs}
           locs={this.state.locs}
           clearSearch={this.clearSearch}
+          sortFiveStars={this.sortFiveStars}
         />
         <MapContainer
           className="map"
@@ -116,6 +169,10 @@ class App extends Component {
           locs={this.state.locs}
           getLocs={this.getLocs}
           center={this.state.center}
+        />
+        <MobileButton
+          clearSearch={this.clearSearch}
+          sortFiveStars={this.sortFiveStars}
         />
       </div>
     );

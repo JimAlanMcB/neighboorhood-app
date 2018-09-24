@@ -3,15 +3,6 @@ import React, { Component } from "react";
 import { Map, InfoWindow, Marker, GoogleApiWrapper } from "google-maps-react";
 
 export class MapContainer extends Component {
-  // shouldComponentUpdate(nextProps, nextState){
-  //   console.log(nextProps)
-  //   console.log(nextState)
-  //   console.log(this.props)
-  //   if(this.props.className === nextProps.className){
-  //     return false
-  //   }
-  //   else return true
-  // }
   render() {
     if (!this.props.loaded) return <div>Loading...</div>;
 
@@ -58,10 +49,12 @@ export class MapContainer extends Component {
               <h3>{this.props.selectedPlace.stars}</h3>
               {this.props.showingInfoWindow ? (
                 this.props.selectedPlace.reviews.map(review => (
-                  <h4>{review}</h4>
+                  <h4 key={this.props.selectedPlace.name}>{review}</h4>
                 ))
               ) : (
-                <h4>{this.props.selectedPlace.reviews}</h4>
+                <h4 key={this.props.selectedPlace.name}>
+                  {this.props.selectedPlace.reviews}
+                </h4>
               )}
               <li key={this.props.selectedPlace.name} className="locs-link">
                 <a href={this.props.selectedPlace.url} target="_blank">
