@@ -35,7 +35,7 @@ export class MapContainer extends Component {
               reviews={a.reviews}
               stars={a.stars}
               url={a.url}
-              // animation={this.props.google.maps.Animation.DROP}
+            
             />
           ))}
 

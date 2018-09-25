@@ -23,9 +23,12 @@ class Menu extends Component {
       <div className="query-locs">
         <div className="query-locs-bar">
           <div className="query-locs-input-wrapper">
+          <label id="search-input" htmlFor="search-input"></label>
             <input
+            id="search-input"
               type="text"
-              placeholder="Search by Name or Rating"
+              aria-label='SearchInput'
+              placeholder="Name or Star Rating"
               onChange={e => this.handleSearch(e.target.value)}
             />
             <button className="query-btn" onClick={this.sortFiveStars}>

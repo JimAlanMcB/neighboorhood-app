@@ -11,7 +11,7 @@ class MobileButton extends Component {
     return (
       <div className="button-holder">
         <button className="query-btn" onClick={this.sortFiveStars}>
-          4+
+          4+ Stars
         </button>
         <button className="query-btn" onClick={this.clearSearch}>
           Clear

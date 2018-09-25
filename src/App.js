@@ -4,6 +4,7 @@ import MapContainer from "./MapComponent";
 import * as LocsAPI from "./LocsAPI";
 import Menu from "./Menu";
 import MobileButton from "./MobileButton";
+import Modal from "./Modal";
 
 class App extends Component {
   state = {
@@ -16,7 +17,8 @@ class App extends Component {
     initialCenter: {
       lat: 33.4484,
       lng: -112.074
-    }
+    },
+    modal: true
   };
   componentDidMount() {
     this.getLocs();
@@ -132,9 +134,12 @@ class App extends Component {
       });
     this.setState({ locs: fiveStars, showingInfoWindow: false });
   };
+  onModalClick = () => {
+    this.setState({ modal: false });
+  };
 
   render() {
-    // If we are in error state from not fetching API, display error page. No need for react router ATM.
+    // If we are in error state from not fetching API, display error page. Display Modal first. No need for react router ATM.
     // Otherwise display map
     return this.state.error ? (
       <div className="error">
@@ -150,6 +155,8 @@ class App extends Component {
           </div>
         </div>
       </div>
+    ) : this.state.modal ? (
+      <Modal onModalClick={this.onModalClick} />
     ) : (
       <div className="main">
         <Menu

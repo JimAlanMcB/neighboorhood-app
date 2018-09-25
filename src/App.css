@@ -1,10 +1,17 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300");
+@import url("https://fonts.googleapis.com/css?family=Yellowtail");
+@import url("https://fonts.googleapis.com/css?family=Poiret+One");
+
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Montserrat", sans-serif;
+}
+#search-input {
+  text-align: center;
 }
 .infowindow {
   font-size: 12px;
   max-width: 200px;
+  font-family: "Montserrat", sans-serif;
 }
 .infowindow .title {
   color: rgba(0, 58, 165, 0.795);
@@ -25,8 +32,7 @@ body {
 }
 .menu {
   -webkit-box-flex: 1;
-  -ms-flex: 1;
-  /* flex: 1; */
+  flex: 1;
   -webkit-box-ordinal-group: 2;
   -ms-flex-order: 1;
   order: 1;
@@ -48,7 +54,8 @@ body {
   cursor: pointer;
 }
 .query-btn:hover {
-  background-color: #1c7c99;
+  background-color: rgb(185, 165, 31);
+  color: black;
 }
 a:link {
   color: #1c7c99;
@@ -60,7 +67,7 @@ a:link {
   border-bottom: 1px solid #0a82a7c0;
 }
 .locs-name:hover {
-  background-color: #0a2b35;
+  background-color: rgb(185, 165, 31);
   color: white;
 }
 .locs-link {
@@ -103,6 +110,7 @@ a:link {
   font-size: 0.8em;
   border: none;
   outline: none;
+  text-align: center;
 }
 .error {
   background-image: url("./img/arizona_nps_2014_1.jpg");
@@ -126,6 +134,47 @@ a:link {
 }
 .error-text {
   margin-top: 30px;
+}
+.modal {
+  background-image: url("./img/arizona_nps_2014_1.jpg");
+  background-color: #09694575;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-size: cover;
+  text-align: center;
+  padding-top: 5%;
+  font-family: "Poiret One", cursive;
+  margin: 0 auto;
+  font-size: 40px;
+  color: rgb(185, 165, 31);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.81);
+}
+.modal-msg {
+  height: 400px;
+  margin: 0 auto;
+  z-index: 15;
+  background: rgba(202, 202, 202, 0.274);
+  border: 1px solid #013f52;
+}
+.go-btn {
+  font-size: 30px;
+  font-family: "Yellowtail", cursive;
+  height: 150px;
+  width: 150px;
+  background-color: #1788ab;
+  border: 2px solid #0a2b35;
+  border-radius: 50%;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+  transition: box-shadow 0.3s ease-in-out;
+}
+.go-btn:hover {
+  background-color: #00141a;
+  color: rgb(185, 165, 31);
+  border: 3px solid rgb(185, 165, 31);
+  cursor: pointer;
+  box-shadow: 0px 5px 30px 10px rgba(255, 238, 3, 0.74);
+  
 }
 .button-holder {
   visibility: hidden;
@@ -166,7 +215,7 @@ a:link {
     visibility: visible;
     min-width: 250px;
     margin-left: -125px;
-    background-color: #333;
+    background-color: rgba(51, 51, 51, 0.363);
     color: #fff;
     text-align: center;
     border-radius: 2px;
@@ -175,6 +224,16 @@ a:link {
     z-index: 1;
     left: 45%;
     bottom: 30px;
+  }
+  .modal-msg {
+    height: 100%;
+    margin: 0 auto;
+    z-index: 15;
+    background: rgba(202, 202, 202, 0.274);
+    border: 1px solid #013f52;
+  }
+  .modal {
+    padding-top: 0%;
   }
 }
 @media (max-height: 600px) {
@@ -212,20 +271,20 @@ a:link {
     visibility: visible;
     min-width: 250px;
     margin-left: -125px;
-    background-color: #333;
+    background-color: rgba(51, 51, 51, 0.363);
     color: #fff;
     text-align: center;
     border-radius: 2px;
-    padding: 16px;
+    padding: 8px;
     position: fixed;
     z-index: 1;
     left: 45%;
     bottom: 30px;
   }
   .infowindow {
-    font-size: 12px;
-    max-width: 200px;
-    max-height: 100px;
+    font-size: 0.6em;
+    max-width: 300px;
+    max-height: 150px;
   }
   .infowindow .title {
     color: rgba(0, 58, 165, 0.795);
@@ -233,5 +292,16 @@ a:link {
   .infowindow .address {
     color: rgb(90, 90, 90);
     text-transform: lowercase;
+  }
+  .modal-msg {
+    height: 100%;
+    margin: 0 auto;
+    z-index: 15;
+    background: rgba(202, 202, 202, 0.274);
+    border: 1px solid #013f52;
+  }
+  .modal {
+    padding-top: 0%;
+    font-size: 30px;
   }
 }

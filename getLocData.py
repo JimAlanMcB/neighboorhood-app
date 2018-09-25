@@ -66,9 +66,8 @@ def get_locations():
        
         park_file.close()
 
-run_main = input('Run Google Scrape? This will take a bit...')
-if (run_main == 'Y' or run_main == 'y'):
-	
+run_main = input('Run Google Scrape? This will take about 30 minutes...')
+if (run_main == 'Y' or run_main == 'y'):	
     	get_locations()
 else:
     	print('Canceled')
