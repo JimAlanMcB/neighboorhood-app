@@ -6,6 +6,7 @@ class Menu extends Component {
   };
   handleSearch = query => {
     this.setState({ query: query });
+    query = query.toLowerCase();
     this.props.onSearchLocs(query);
   };
   handleLocationClick = e => {
