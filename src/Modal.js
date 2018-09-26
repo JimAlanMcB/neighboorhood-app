@@ -4,6 +4,7 @@ class Modal extends Component {
   handleClick = () => {
     this.props.onModalClick();
   }
+  
   render() {
     return (
       <div className="modal">

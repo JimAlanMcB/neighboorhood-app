@@ -5,6 +5,7 @@ import * as LocsAPI from "./LocsAPI";
 import Menu from "./Menu";
 import MobileButton from "./MobileButton";
 import Modal from "./Modal";
+import MobileNav from "./Nav";
 
 class App extends Component {
   state = {
@@ -18,10 +19,16 @@ class App extends Component {
       lat: 33.4484,
       lng: -112.074
     },
-    modal: true
+    modal: true,
+    animation: false
   };
+  
   componentDidMount() {
     this.getLocs();
+    window.gm_authFailure = () => {
+      console.log('Google map Not loaded from API')
+      this.setState({gm_error: true})
+    }
   }
   getLocs = () => {
     let newLocs;
@@ -41,12 +48,14 @@ class App extends Component {
       });
   };
   onMarkerClick = (props, marker) => {
+    
     this.setState({
       activeMarker: marker,
-      selectedPlace: props,
+      selectedPlace: (props),
       showingInfoWindow: true,
-      center: marker.center
+      center: marker.center,
     });
+   
   };
   onInfoWindowClose = () =>
     this.setState({
@@ -58,7 +67,8 @@ class App extends Component {
     if (this.state.showingInfoWindow)
       this.setState({
         activeMarker: null,
-        showingInfoWindow: false
+        showingInfoWindow: false,
+        animation: false
       });
   };
   // instead of building a search API endpoint, I built the query endpoint here basically.
@@ -92,7 +102,8 @@ class App extends Component {
             locs: newLocs,
             selectedPlace: newLocs[0],
             activeMarker: newLocs[0],
-            center: { lat: newLocs[0].lat, lng: newLocs[0].lng }
+            center: { lat: newLocs[0].lat, lng: newLocs[0].lng },
+            animation: true
           });
     });
   };
@@ -103,7 +114,8 @@ class App extends Component {
         lat: this.state.initialCenter.lat,
         lng: this.state.initialCenter.lng
       },
-      locs: []
+      locs: [],
+      animation: false
     });
     this.getLocs();
   };
@@ -132,7 +144,7 @@ class App extends Component {
         e.stars = `Rating: ${num}`;
         return e;
       });
-    this.setState({ locs: fiveStars, showingInfoWindow: false });
+    this.setState({ locs: fiveStars, showingInfoWindow: false, animation: true});
   };
   onModalClick = () => {
     this.setState({ modal: false });
@@ -141,7 +153,7 @@ class App extends Component {
   render() {
     // If we are in error state from not fetching API, display error page. Display Modal first. No need for react router ATM.
     // Otherwise display map
-    return this.state.error ? (
+    return this.state.error || this.state.gm_error ? (
       <div className="error">
         <div className="error-msg">
           <div className="error-text">
@@ -176,14 +188,17 @@ class App extends Component {
           locs={this.state.locs}
           getLocs={this.getLocs}
           center={this.state.center}
+          animation={this.state.animation}
         />
         <MobileButton
           clearSearch={this.clearSearch}
           sortFiveStars={this.sortFiveStars}
         />
+        <MobileNav />
       </div>
     );
   }
 }
+
 
 export default App;

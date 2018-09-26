@@ -181,10 +181,35 @@ a:link {
 }
 
 @media (max-width: 600px) {
+  .nav-main {
+    position: fixed;
+    top: 22%;
+    left: 85%;
+   }
+   .nav-menu {
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    z-index: 100;
+    font-size: 27px;
+   }
+  .query-btn-mobile {
+    background-color: #013f52;
+    border: 1px solid rgba(255, 255, 255, 0.205);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    width: 50%;
+    cursor: pointer;
+  }
   .query-locs-bar {
     position: fixed;
     width: 100%;
-    height: 10%;
+    height: 20%;
     bottom: 0;
     left: 0;
     z-index: 5;
@@ -192,13 +217,13 @@ a:link {
   }
   .query-locs-input-wrapper {
     flex: 1;
-    background: rgb(25, 99, 117);
+    background: rgb(77, 193, 223);
     height: 100%;
     width: 100%;
   }
   .query-locs-bar input {
     width: 100%;
-    height: 100%;
+    height: 20%;
     padding: 0px 0px;
     font-size: 0.8em;
     border: none;
@@ -209,7 +234,7 @@ a:link {
     width: 50%;
   }
   .locs-name {
-    visibility: hidden;
+    visibility: visible;
   }
   .button-holder {
     visibility: visible;
@@ -237,6 +262,31 @@ a:link {
   }
 }
 @media (max-height: 600px) {
+  .nav-main {
+    position: fixed;
+    top: 22%;
+    left: 90%;
+   }
+   .nav-menu {
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    z-index: 100;
+    font-size: 27px;
+   }
+  .query-btn-mobile {
+    background-color: #013f52;
+    border: 1px solid rgba(255, 255, 255, 0.205);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    width: 50%;
+    cursor: pointer;
+  }
   .query-locs-bar {
     position: fixed;
     width: 100%;
@@ -249,7 +299,7 @@ a:link {
   .query-locs-input-wrapper {
     flex: 1;
     background: rgb(25, 99, 117);
-    height: 100%;
+    height: 90%;
     width: 100%;
   }
   .query-locs-bar input {
@@ -261,11 +311,10 @@ a:link {
     outline: none;
   }
   .query-btn {
-    text-align: center;
-    width: 50%;
+    visibility: visible;
   }
   .locs-name {
-    visibility: hidden;
+    visibility: visible;
   }
   .button-holder {
     visibility: visible;
@@ -304,4 +353,5 @@ a:link {
     padding-top: 0%;
     font-size: 30px;
   }
+  
 }

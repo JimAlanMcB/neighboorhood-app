@@ -10,10 +10,11 @@ class MobileButton extends Component {
   render() {
     return (
       <div className="button-holder">
-        <button className="query-btn" onClick={this.sortFiveStars}>
+     
+        <button className="query-btn-mobile" onClick={this.sortFiveStars}>
           4+ Stars
         </button>
-        <button className="query-btn" onClick={this.clearSearch}>
+        <button className="query-btn-mobile" onClick={this.clearSearch}>
           Clear
         </button>
       </div>

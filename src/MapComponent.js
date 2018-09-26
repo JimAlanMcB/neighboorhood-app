@@ -3,9 +3,18 @@ import React, { Component } from "react";
 import { Map, InfoWindow, Marker, GoogleApiWrapper } from "google-maps-react";
 
 export class MapContainer extends Component {
+  handleMarkerClick = (props, marker, e) => {
+    this.props.onMarkerClick(props, marker);
+  };
+  handleAnimation = () => {
+    let animate = this.props.animation
+      ? this.props.google.maps.Animation.BOUNCE
+      : null;
+    return animate;
+  };
   render() {
+    let animate = this.handleAnimation();
     if (!this.props.loaded) return <div>Loading...</div>;
-
     const style = {
       display: "grid"
     };
@@ -29,13 +38,13 @@ export class MapContainer extends Component {
               key={a.name}
               position={{ lat: a.lat, lng: a.lng }}
               center={{ lat: a.lat, lng: a.lng }}
-              onClick={this.props.onMarkerClick}
+              onClick={this.handleMarkerClick}
               name={a.name}
               address={a.address}
               reviews={a.reviews}
               stars={a.stars}
               url={a.url}
-            
+              animation={animate}
             />
           ))}
 

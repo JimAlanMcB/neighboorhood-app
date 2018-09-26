@@ -14,6 +14,8 @@ class Menu extends Component {
     this.handleSearch(search);
   };
   clearSearch = () => {
+    const input = document.getElementsByTagName("input")[0];
+    input.value = "";
     this.props.clearSearch();
   };
   sortFiveStars = () => {
@@ -22,13 +24,13 @@ class Menu extends Component {
   render() {
     return (
       <div className="query-locs">
-        <div className="query-locs-bar">
+        <div className="query-locs-bar" id="nav">
           <div className="query-locs-input-wrapper">
-          <label id="search-input" htmlFor="search-input"></label>
+            <label id="search-input" htmlFor="search-input" />
             <input
-            id="search-input"
+              id="search-input"
               type="text"
-              aria-label='SearchInput'
+              aria-label="SearchInput"
               placeholder="Name or Star Rating"
               onChange={e => this.handleSearch(e.target.value)}
             />
@@ -46,17 +48,16 @@ class Menu extends Component {
                     key={l.name}
                     className="locs-name"
                     onClick={this.handleLocationClick}
+                    aria-labelledby={l.name}
+                    tabIndex="0"
                   >
                     {l.name}
                   </li>
                 );
               })}
-             
             </div>
           </div>
-         
         </div>
-        
       </div>
     );
   }
