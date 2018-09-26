@@ -171,6 +171,7 @@ class App extends Component {
       <Modal onModalClick={this.onModalClick} />
     ) : (
       <div className="main">
+      
         <Menu
           onSearchLocs={this.onSearchLocs}
           locs={this.state.locs}
