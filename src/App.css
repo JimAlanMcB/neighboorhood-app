@@ -196,7 +196,10 @@ a:link {
     font-size: 27px;
     padding: 0;
     color: white;
+    animation: bounce 1s infinite alternate;
+    -webkit-animation: bounce 1s infinite alternate;
   }
+
   .query-btn-mobile {
     background-color: #013f52;
     border: 1px solid rgba(255, 255, 255, 0.205);
@@ -281,7 +284,10 @@ a:link {
     font-size: 27px;
     padding: 0;
     color: white;
+    animation: bounce 1s infinite alternate;
+    -webkit-animation: bounce 1s infinite alternate;
   }
+
   .query-btn-mobile {
     background-color: #013f52;
     border: 1px solid rgba(255, 255, 255, 0.205);
@@ -359,5 +365,21 @@ a:link {
   .modal {
     padding-top: 0%;
     font-size: 30px;
+  }
+}
+@keyframes bounce {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-15px);
+  }
+}
+@-webkit-keyframes bounce {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-15px);
   }
 }
